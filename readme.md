@@ -1,6 +1,6 @@
 # Imoge Studio Pro
 
-![Imoge Studio App Screenshot](https://via.placeholder.com/600x400?text=Imoge+Studio+App+Screenshot)
+![Imoge Studio App Screenshot](https://github.com/RandomCatUser/IMOGE/blob/main/image.png)
 *Replace this with an actual screenshot of your application.*
 
 `Imoge Studio Pro` is a desktop application built with `Python` and `Tkinter` that allows you to securely convert and store your image and video files into a custom `.imoge` format, and then revert them back to their original form. This tool utilizes a simple `XOR` encryption method to obfuscate your media files.
