@@ -1,7 +1,7 @@
 # Imoge Studio Pro
 
 ![Imoge Studio App Screenshot](https://github.com/RandomCatUser/IMOGE/blob/main/image.png)
-*Replace this with an actual screenshot of your application.*
+
 
 `Imoge Studio Pro` is a desktop application built with `Python` and `Tkinter` that allows you to securely convert and store your image and video files into a custom `.imoge` format, and then revert them back to their original form. This tool utilizes a simple `XOR` encryption method to obfuscate your media files.
 
@@ -37,8 +37,8 @@ Follow these steps to get `Imoge Studio Pro` up and running on your machine.
 1.  **Clone the repository (or download the code):**
     Open your terminal or command prompt and run:
     ```bash
-    git clone [https://github.com/YourUsername/ImogeStudio.git](https://github.com/YourUsername/ImogeStudio.git)
-    cd ImogeStudio
+    git clone https://github.com/RandomCatUser/IMOGE.git
+    cd IMOGE
     ```
     *(If you downloaded a ZIP file, extract it to your desired location and navigate into the extracted folder.)*
 
@@ -62,3 +62,7 @@ Once you've completed the installation and icon preparation steps, you can launc
 
 ```bash
 python imoge_app.py
+```
+
+**Open Source Project By RandomCatUser
+`This Was A Engine Experiment Name IMOGE To Give A Project To Any One And Customize It So Dont Forget To Star Us`
