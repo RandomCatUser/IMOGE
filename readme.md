@@ -57,6 +57,7 @@ Follow these steps to get `Imoge Studio Pro` up and running on your machine.
     *(If these icon files are missing, the application will still run, but the buttons will appear without their visual icons, and you'll see a warning message.)*
 
 ### Running the Application
+Error!
 
 Once you've completed the installation and icon preparation steps, you can launch the application:
 
